@@ -75,8 +75,7 @@ const renderDataToHTML = () => {
               cartElement.innerHTML = 
         `
         <h2 class="cart-headline">Your Cart (${totalQuantity})</h2>
-        <img class="cart-img" src="/assets/images/illustration-empty-cart.svg" 
-                                                    alt="illustration-empty-cart.svg">
+        <img class="cart-img" src="/assets/images/illustration-empty-cart.svg" alt="illustration-empty-cart.svg">
         <p class="cart-message">Your added items will appear here</p>
         `
 } 
