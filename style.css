@@ -274,7 +274,7 @@ p, button{
     filter: brightness(0) saturate(100%) invert(0%) sepia(100%) 
           saturate(7500%) hue-rotate(352deg) brightness(99%) contrast(101%)
 }
-.remove-button img{
+.remove-button img svg{
 /*     transform: scale(3.5); */
      width: 13px;
      height: 13px;
