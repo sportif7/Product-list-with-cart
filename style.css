@@ -276,6 +276,8 @@ p, button{
 }
 .remove-button img{
     transform: scale(3.5);
+    width: 13px;
+     height: 13px;
 }
 
 .order-total{
