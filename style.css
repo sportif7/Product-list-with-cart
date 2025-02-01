@@ -275,7 +275,7 @@ p, button{
           saturate(7500%) hue-rotate(352deg) brightness(99%) contrast(101%)
 }
 .remove-button img{
-      width:13px;
+/*       width:13px; */
 /*     transform: scale(3.5); */
 }
 
