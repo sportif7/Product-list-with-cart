@@ -261,6 +261,9 @@ p, button{
 }
 
 .remove-button{
+    dispay:flex;
+    justify-content:center;
+    align-items:center;
     width:15px;
     height:15px;
     border-radius:15px;
