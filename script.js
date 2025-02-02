@@ -190,7 +190,7 @@ function updateShoppingCartDataHTML(){
                   </div>
                 </div> 
                 <button class="remove-button">
-                    <img class="cross" src="assets/images/icon-remove-item.svg" width="10" height="10"
+                    <img class="cross" src="assets/images/icon-remove-item.svg?v=2" width="10" height="10"
                     alt="icon-remove-item.svg">
                 </button>
               `
