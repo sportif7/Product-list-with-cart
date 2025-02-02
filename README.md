@@ -34,24 +34,11 @@ Users should be able to:
 ### Screenshot
 #### My solution:
 
-<table>
-  <tr>
-    <td># mobile empty</td>
-    <td># mobile selected</td>
-    <td># mobile confirmed</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/mobile-empty.png" width=200></td>
-    <td><img src="screenshots/mobile-selected.png" width=200></td>
-    <td><img src="screenshots/mobile-confirmed.png" width=200></td>
-  </tr>
-</table>
-
-  <style>
-  td{
-     vertical-align:top;
-  }
-</style>
+<p>
+    <img align="top" src="screenshots/mobile-empty.png" width=200 hs=20 >
+    <img align="top" src="screenshots/mobile-selected.png" width=200  hs=20 >
+    <img align="top" src="screenshots/mobile-confirmed.png" width=200 hs=20  >
+</p>
 
 <table>
   <tr>
