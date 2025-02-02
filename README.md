@@ -34,14 +34,14 @@ Users should be able to:
 ### Screenshot
 #### My solution:
 
-<div class="text">
-  <p align="left"># mobile-empty</p> <p align="center"># mobile-selected</p> <p align="right"># mobile-cofirmed</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p style="display: inline-block" align="left" ># mobile-empty</p> <p align="left"># mobile-selected</p> <p align="left"># mobile-confirmed</p>
 </div>
 
-<p align="center">
-    <img align="top" src="screenshots/mobile-empty.png" width=200 hspace=20 >
-    <img align="top" src="screenshots/mobile-selected.png" width=200  hspace=20 >
-    <img align="top" src="screenshots/mobile-confirmed.png" width=200 hspace=20  >
+<p align="left">
+    <img align="top" src="screenshots/mobile-empty.png" width=200 >
+    <img align="top" src="screenshots/mobile-selected.png" width=200 >
+    <img align="top" src="screenshots/mobile-confirmed.png" width=200 >
 </p>
 
 <table>
