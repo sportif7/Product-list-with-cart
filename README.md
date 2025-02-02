@@ -35,9 +35,9 @@ Users should be able to:
 #### My solution:
 
 <p>
-    <img align="top" src="screenshots/mobile-empty.png" width=200 hs=20 >
-    <img align="top" src="screenshots/mobile-selected.png" width=200  hs=20 >
-    <img align="top" src="screenshots/mobile-confirmed.png" width=200 hs=20  >
+    <img align="top" src="screenshots/mobile-empty.png" width=200 hspace=20 >
+    <img align="top" src="screenshots/mobile-selected.png" width=200  hspace=20 >
+    <img align="top" src="screenshots/mobile-confirmed.png" width=200 hspace=20  >
 </p>
 
 <table>
