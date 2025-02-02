@@ -34,7 +34,11 @@ Users should be able to:
 ### Screenshot
 #### My solution:
 
-<p>
+<div class="text">
+  <p align="left"># mobile-empty</p> <p align="center"># mobile-selected</p> <p align="right"># mobile-cofirmed</p>
+</div>
+
+<p align="center">
     <img align="top" src="screenshots/mobile-empty.png" width=200 hspace=20 >
     <img align="top" src="screenshots/mobile-selected.png" width=200  hspace=20 >
     <img align="top" src="screenshots/mobile-confirmed.png" width=200 hspace=20  >
