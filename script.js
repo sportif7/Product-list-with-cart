@@ -190,8 +190,9 @@ function updateShoppingCartDataHTML(){
                   </div>
                 </div> 
                 <button class="remove-button">
-                    <img class="cross" src="assets/images/icon-remove-item.svg?v=2" width="10" height="10"
-                    alt="icon-remove-item.svg">
+                    // <img class="cross" src="assets/images/icon-remove-item.svg alt="icon-remove-item.svg">
+                    <object type="image/svg+xml" data="assets/images/icon-remove-item.svg alt="icon-remove-item.svg"
+                            width="10" height="10"></object>
                 </button>
               `
               cartElement.appendChild(newCartDessert);
