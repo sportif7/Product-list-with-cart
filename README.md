@@ -41,17 +41,11 @@ Users should be able to:
     <td># mobile confirmed</td>
   </tr>
   <tr>
-    <td><img src="screenshots/mobile-empty.png" width=200></td>
-    <td><img src="screenshots/mobile-selected.png" width=200></td>
-    <td><img src="screenshots/mobile-confirmed.png" width=200></td>
+    <td valign="top"><img src="screenshots/mobile-empty.png" width=200></td>
+    <td valign="top"><img src="screenshots/mobile-selected.png" width=200></td>
+    <td valign="top"><img src="screenshots/mobile-confirmed.png" width=200></td>
   </tr>
 </table>
-
-  <style>
-  td{
-     vertical-align:top;
-  }
-</style>
 
 <table>
   <tr>
