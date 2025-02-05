@@ -70,7 +70,7 @@ Users should be able to:
   </tr>
 </table>
 
-- Solution URL: (https://github.com/sportif7/Product-list-with-cart.git)
+- Solution URL: [here](https://github.com/sportif7/Product-list-with-cart.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
