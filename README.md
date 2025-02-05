@@ -71,7 +71,7 @@ Users should be able to:
 </table>
 
 - Solution URL: [here](https://github.com/sportif7/Product-list-with-cart.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://sportif7.github.io/Product-list-with-cart/)
 
 ## My process
 
